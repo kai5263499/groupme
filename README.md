@@ -6,7 +6,7 @@ This library supports most if not all of the `api.groupme.com/v3` REST calls.
 
 ## Installing
 
-`go get -u github.com/MagnusFrater/groupme`
+`go get github.com/kai5263499/groupme`
 
 ## Example
 

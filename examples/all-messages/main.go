@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/MagnusFrater/groupme"
+	"github.com/kai5263499/groupme"
 )
 
 func main() {

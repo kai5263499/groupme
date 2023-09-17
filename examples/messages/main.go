@@ -6,7 +6,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/MagnusFrater/groupme"
+	"github.com/kai5263499/groupme"
 )
 
 func main() {
