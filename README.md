@@ -2,7 +2,7 @@
 
 This is the original [GroupMe](https://dev.groupme.com/) library for [Go](https://golang.org/).
 
-This library supports most if not all of the `api.groupme.com/v3` REST calls.
+This library supports most if not all of the [groupme v3 REST calls](https://dev.groupme.com/docs/v3).
 
 ## Installing
 
